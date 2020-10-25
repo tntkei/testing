@@ -1,3 +1,3 @@
-print("ようやった")
+print("This file was created within RStudio")
 
-print("ようわからん")
+print("And now it lives on GitHub")
